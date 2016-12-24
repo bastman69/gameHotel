@@ -3,6 +3,6 @@
         "psr-4": {"Hotel\\": "src/"}
     },
     "require": {
-        "phpunit/phpunit": "^5.7"
+        
     }
 }
