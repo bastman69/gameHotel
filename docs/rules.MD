@@ -20,3 +20,5 @@
 * 30 available entrances
 * dice - random numbers 1-6
 * planning permission dice random 1-4 (1=Granted,2=Granted with double charge, 3=Granted with free of charge, 4=Denied)
+* 8 Hotels
+- each hotel has available from 1 to 5
