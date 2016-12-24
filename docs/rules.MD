@@ -17,8 +17,11 @@
   - When a player does not have money or any properties then is out of the game
   - If a player reaches a position where another player holds moves to the next available
 * 8 building areas
+  - In order to build a hotel you must buy the area first
+  - In order to buy an area you must be in a position in front of the area which allows you to purchase
+  - If you own an area but you haven't build yet any player who is in front can buy it and you must sell it
 * 30 available entrances
 * dice - random numbers 1-6
 * planning permission dice random 1-4 (1=Granted,2=Granted with double charge, 3=Granted with free of charge, 4=Denied)
 * 8 Hotels
-  - each hotel has available from 1 to 5
+  - each hotel has available building blocks from 1 to 5
